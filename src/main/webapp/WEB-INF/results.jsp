@@ -9,9 +9,9 @@
 <body>
 	<h1>Submitted Info</h1>
 	
-	<h3>Name: ${name }</h3>
-	<h3>Location: ${location }</h3>
-	<h3>Language: ${Language }</h3>
-	<h3>Comment: ${comment }</h3>
+	<h3>Name: ${name}</h3>
+	<h3>Location: ${location}</h3>
+	<h3>Language: ${language}</h3>
+	<h3>Comment: ${comment}</h3>
 </body>
 </html>

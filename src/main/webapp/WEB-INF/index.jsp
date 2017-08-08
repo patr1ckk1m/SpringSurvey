@@ -68,7 +68,6 @@
 		        <input type='submit' value='create user'>
 		      </td>
 		    </tr>
-		    </tr>
 		  </table>
 		
 		</form>
